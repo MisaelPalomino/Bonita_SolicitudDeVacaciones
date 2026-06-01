@@ -1,0 +1,8 @@
+2026-05-24 15:30:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "SEQUENCE" no encontrada
+Table "SEQUENCE" not found; SQL statement:
+select count(*) from sequence [42102-200]
+2026-05-24 15:30:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "SEQUENCE" no encontrada
+Table "SEQUENCE" not found; SQL statement:
+select count(*) from sequence [42102-200]
